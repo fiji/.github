@@ -4,6 +4,6 @@ Fiji is a "batteries included" distribution of [ImageJ](https://imagej.net/) for
 
 * This organization is an [architectural layer](https://imagej.net/develop/architecture#organizational-structure) housing Fiji and its plugins.
 * It is built on [scijava](https://github.com/scijava), [imglib](https://github.com/imglib), [imagej](https://github.com/imagej), and [scifio](https://github.com/scifio).
-* Some plugins have their own organizations: [bigdataviewer](https://github.com/bigdataviewer), [trackmate](https://github.com/trackmate), and [trakem2](https://github.com/trakem2).
+* Some plugins have their own organizations: [bigdataviewer](https://github.com/bigdataviewer), [trackmate-sc](https://github.com/trackmate-sc), and [trakem2](https://github.com/trakem2).
 * The primary repository is [fiji/fiji](https://github.com/fiji/fiji).
 * See also the [Fiji project website](https://fiji.sc/) and [Fiji section of the ImageJ wiki](https://imagej.net/software/fiji).
