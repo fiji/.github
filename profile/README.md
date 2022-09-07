@@ -1,5 +1,3 @@
-## Fiji Is Just ImageJ
-
 <img align="right" width="128" src="https://imagej.net/media/icons/fiji.svg">
 
 Fiji is a "batteries included" distribution of [ImageJ](https://imagej.net/) for scientific image analysis.
